@@ -13,7 +13,7 @@ a {
 }
 body {
   background-color: #0b1d26;
-  background-image: url(img/bg.png);
+  background-image: url(../img/bg.png);
   background-size: 100% auto;
   background-repeat: no-repeat;
   color: #fff;
